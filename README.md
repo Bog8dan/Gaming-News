@@ -42,6 +42,21 @@
 
 ## Testing
 
+- [HTML Validator](https://validator.w3.org/)
+  - result for index.html
+        ![HTML results index](documentation/validation/index-validation.png)
+  - result for reviews.html
+        ![HTML results reviews](documentation/validation/reviews-validation.png)
+  - result for releases.html
+        ![HTML results releases](documentation/validation/releases-validation.png)
+  - result for contact.html
+        ![HTML results contact](documentation/validation/contact-validation.png)
+
+- [CSS Validator](https://jigsaw.w3.org/css-validator/)
+
+  - result for styles.css
+      ![CSS results](documentation/validation/css-validation.png)
+
 ## Deployment
 
 - This project was developed using [GitPod](https://www.gitpod.io/) and [CodeAnyWhere](https://codeanywhere.com/).
