@@ -223,6 +223,24 @@ header p {
     margin-bottom: 30px;
 }
 
+/* Article two */
+
+#article-two {
+    margin: auto;
+    width: 90%;
+    margin-bottom: 30px;
+}
+
+#article-two h1 {
+    color: darkslategray;
+    margin-bottom: 30px;
+}
+
+#article-two h2 {
+    color: darkslategray;
+    margin-bottom: 30px;
+}
+
 /* Video section */
 
 .media-align {
