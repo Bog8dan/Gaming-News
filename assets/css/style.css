@@ -196,3 +196,34 @@ header p {
     font-size: 19px;
     margin: 10px;
 }
+
+/* Footer */
+
+footer {
+    height: 150px;
+    text-align: center;
+    background-color: crimson;
+}
+
+footer ul {
+    text-align: center;
+    background-color: crimson;
+}
+
+footer li {
+    display: inline;
+    background-color: crimson;
+}
+
+footer i {
+    font-size: 160%;
+    color: ghostwhite;
+    padding: 1%;
+    margin: 0.5%;
+    background-color: crimson;
+    width: 100px;
+}
+
+footer p {
+    color: ghostwhite;
+}
