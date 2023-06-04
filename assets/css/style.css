@@ -378,6 +378,32 @@ header p {
     margin: auto;
 }
 
+iframe {
+    height: 100%;
+    width: 100%;
+    border: none;
+}
+
+form h1 {
+    color: darkslategray;
+}
+
+fieldset {
+    border: 2px solid black;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+legend {
+    color: darkslategray;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+legend span {
+    font-size: 12px;
+}
+
 /* Footer */
 
 footer {
