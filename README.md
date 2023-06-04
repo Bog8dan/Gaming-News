@@ -33,12 +33,33 @@
 
 ## Issues and Bugs
 
+- ### Solved
+  - The color of the navaigation bar doesn't occur.
+    - Fixed by adding 'overflow: auto' to the navigation body
+  - Fix the order list of the navigation bar.
+    - Fixed by reversing the order of the menu list.
+  - Fix the image text aligment of the landing image from the Index Page.
+    - Fixed by adding the image text in the same division with the landing image. Set the position to relative, set the content to be centered and set the item position to be at the bottom of the landing image.
+  - Fix the text position of the cards from the Index Page.
+    - Fixed by setting the text align to be in the center.
+  - Fix adjusting video iframe margins on the screen
+    - Fixed by adding margin to auto.
+  - Fix adjusting the image margins on the Releases page.
+    - Fixed by modifying the max-width.
+
+  - ! All fixed was resolve with the help of the Stack OverFlow or W3Schools websites.
+
 ## Technologies Used
 ### Main Languages Used
 -   [HTML5](https://en.wikipedia.org/wiki/HTML5)
 -   [CSS3](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
 
 ### Frameworks, Libraries & Programs Used
+
+- [Google Fonts:](https://fonts.google.com/) was used to import the 'Source Sans Pro' font into the style.css file.
+- [Font Awesome:](https://fontawesome.com/) was used to add icons.
+- [GitHub:](https://github.com/) is used as the respository for the projects code after being pushed from Git.
+- [Colors:](https://w3schools.com/) was used to create the color palette.
 
 ## Testing
 
