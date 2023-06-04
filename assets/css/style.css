@@ -39,3 +39,18 @@ p {
     color: black;
 
 }
+
+/* Logo */
+
+#logo {
+    float: left;
+    font-size: 280%;
+    margin-left: 30px;
+}
+
+/* Navigation bar */
+
+#header-color {
+    background-color: crimson;
+    overflow: auto;
+}
