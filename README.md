@@ -22,14 +22,84 @@
   - [Code](#code)
 
 ## Introduction
+GAME ON is a website dedicated to the latest gaming news, reviews, upcoming releases and more. GAME ON's main goal is to keep you up to date with the latest news and reviews about your favorite gaming titles as well as updateing you on the upcoming games releasing in the near future. If you are a gaming addict or just lookin gfor the latest information we've got you covered.
 
 ## User Experience (UX)
+
+  - ### User stories
+
+  - ### Ideal User Demographic
+    - First Time user
+    - Current user
+    - Frequent User
+
+  - ### First Time User Goals
+
+        1. As a First Time User, I want to easily explore website content.
+        2. As a First Time User, I want to easily to understand what the website offers.
+        3. As a First Time User, I want to easily navigate throughout the website pages.
+
+  - ### Current User Goals
+
+        1. As a Current User, I want to visit easily and fast the website.
+        2. As a Current User, I want to easily book a offer.
+        3. As a Current User, I want to easily contact the companie.
+
+  - ### Frequent User Goals
+
+        1. As a Frequent User, I want to see regular gaming news updates.
+        2. As a Frequent User, I want to see videos with the latest trailers.
+
+- ### Development-Planes
+
+  - #### To create an accessible and easy-to-use website
+
+        1. Create a clear and logical structure.
+        2. Choose good colors and fonds.
+        3. Implement a responsiv design.
+
+  - ### Strategy
+
+        1. Define Target Audience.
+        2. Use-Friendly navigation.
+        3. Create relevant content.
+        4. Use attractive and high-quality images.
+        4. Integrate Social Media.
+
+  - ### Scope
+
+        1. Update content on a dayly basis.
+        2. Keep the visitors interested in the content.
+        3. Repeat visits from users.
+
+- ### Design
+
+  - #### The color palette used in the website
+
+        1. Primary Color: ghostwhite;
+        2. Secundary Color: darkslategrey.
+        3. Accent Color: crimson.
+        4. Background Color: gainsboro.
+        5. Text Color: black.
+        6. Border Color: rgba(199, 74, 74, 0.7).
+        7. Shadow Color: rgba(255, 0, 0, 0.7).
+
+![Colour Palette](documentation/color-palette.png)
 
 ## Features
 
 ### Existing Features
 
 ### Features which could be implemented in the future
+
+- #### Login Page
+  - A Login Page could be added to secure the account of the user and to protect sensitive information.
+
+- #### Bookmark feature
+  - The Bookmark functionality could be added because is a great way to allow users to save their favorite articles and videos.
+
+- #### Hardware Page
+  - A Hardware page could be added to show the minimum harware requirements to run the latest games.
 
 ## Issues and Bugs
 
@@ -59,7 +129,7 @@
 - [Google Fonts:](https://fonts.google.com/) was used to import the 'Source Sans Pro' font into the style.css file.
 - [Font Awesome:](https://fontawesome.com/) was used to add icons.
 - [GitHub:](https://github.com/) is used as the respository for the projects code after being pushed from Git.
-- [Colors:](https://w3schools.com/) was used to create the color palette.
+- [W3Schools:](https://w3schools.com/) was used to create the color palette.
 
 ## Testing
 
