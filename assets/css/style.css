@@ -223,6 +223,20 @@ header p {
     margin-bottom: 30px;
 }
 
+/* Video section */
+
+.media-align {
+    width: 80%;
+    height: 600px;
+    margin: auto;
+    margin-bottom: 30px;
+    text-align: center;
+    border: 1px solid ghostwhite;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(255, 0, 0, 0.7);
+    display: block;
+}
+
 /* Footer */
 
 footer {
