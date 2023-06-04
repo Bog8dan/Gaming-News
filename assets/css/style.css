@@ -54,3 +54,8 @@ p {
     background-color: crimson;
     overflow: auto;
 }
+
+#links {
+    font-size: 125%;
+    letter-spacing: 3px;
+}
