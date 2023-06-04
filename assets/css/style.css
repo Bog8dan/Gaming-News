@@ -238,11 +238,6 @@ header p {
     margin-bottom: 30px;
 }
 
-#article-one h1 {
-    color: darkslategray;
-    margin-bottom: 30px;
-}
-
 #article-one h2 {
     color: darkslategray;
     margin-bottom: 30px;
@@ -256,11 +251,6 @@ header p {
     margin-bottom: 30px;
 }
 
-#article-two h1 {
-    color: darkslategray;
-    margin-bottom: 30px;
-}
-
 #article-two h2 {
     color: darkslategray;
     margin-bottom: 30px;
@@ -271,11 +261,6 @@ header p {
 #article-three {
     margin: auto;
     width: 90%;
-    margin-bottom: 30px;
-}
-
-#article-three h1 {
-    color: darkslategray;
     margin-bottom: 30px;
 }
 
@@ -313,11 +298,6 @@ header p {
 #release-article {
     margin: auto;
     width: 90%;
-    margin-bottom: 30px;
-}
-
-#release-article h1 {
-    color: darkslategray;
     margin-bottom: 30px;
 }
 
@@ -390,7 +370,7 @@ iframe {
     border: none;
 }
 
-form h1 {
+form h2 {
     color: darkslategray;
 }
 
