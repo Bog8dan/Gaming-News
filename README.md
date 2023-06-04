@@ -93,9 +93,43 @@ GAME ON is a website dedicated to the latest gaming news, reviews, upcoming rele
         1. Primary Font: [Source Sans Pro](https://fonts.google.com/specimen/Source+Sans+Pro)
     - Imported from [Google Fonts](https://fonts.google.com/)
 
+- ### Media Files, Text and Tools
+
+  - #### The Media Files used in the website
+
+        1. [Images](https://google.com/)
+        2. [Videos](https://youtube.com/)
+        3. [Articles](https://ign.com/)
+        4. [Releases](https://gamerant.com/)
+
 ## Features
 
 ### Existing Features
+
+- __Navigation Bar__
+
+  - The navigation bar is constant and appears on all pages of the site and on all resolutions.
+  - The navigation bar has a pleasing contrast to the eye and it provides easy access to different pages of my website.
+
+- __Index page__
+
+    - Contains the main content and news articles
+
+- __Reviews page__
+
+    - Contains the article reviews and trailers
+
+- __Releases page__
+
+    - Contains the relase radar for upcoming titles
+
+ __Contact Page - 'Contact Form' and Find us__
+
+    - The Contact page consists of a 'Contact Form' panel and a Google map panel.
+
+- __Footer__
+
+  - The footer is constant and appears on all pages of the site and on all resolutions. At low resolution the footer is positioned in the column.
 
 ### Features which could be implemented in the future
 
