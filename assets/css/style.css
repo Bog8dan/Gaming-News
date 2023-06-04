@@ -90,6 +90,13 @@ header p {
     border-bottom: 1px solid ghostwhite;
 }
 
+/* Text alignment */
+
+.align-center {
+    text-align: center;
+    color: darkslategrey;
+}
+
 /* ----- Header images ----- */
 
 /* Landing image */
