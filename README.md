@@ -1,39 +1,56 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+<h1 align="center">Gaming News Website</h1>
 
-Welcome,
+[View the live project here](https://bog8dan.github.io/Gaming-News/)
 
-This is the Code Institute student template for Codeanywhere. We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
+## Index – Table of Contents
 
-You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Codeanywhere and the extensions we use. Some of this information has been updated since the video content was created. The last update to this file was: **May 11th, 2023**
+- [Index – Table of Contents](#index--table-of-contents)
+- [Introduction](#introduction)
+- [User Experience (UX)](#user-experience-ux)
+- [Features](#features)
+  - [Existing Features](#existing-features)
+  - [Features which could be implemented in the future](#features-which-could-be-implemented-in-the-future)
+- [Issues and Bugs](#issues-and-bugs)
+- [Technologies Used](#technologies-used)
+  - [Main Languages Used](#main-languages-used)
+  - [Frameworks, Libraries \& Programs Used](#frameworks-libraries--programs-used)
+- [Testing](#testing)
+- [Deployment](#deployment)
+  - [Deploying on GitHub Pages](#deploying-on-github-pages)
+- [Credits](#credits)
+  - [Content](#content)
+  - [Code](#code)
 
-## Codeanywhere Reminders
+## Introduction
 
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere, in the terminal, type:
+## User Experience (UX)
 
-`python3 -m http.server`
+## Features
 
-A button should appear to click: _Open Preview_ or _Open Browser_.
+### Existing Features
 
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere with no-cache, you can use this alias for `python3 -m http.server`.
+### Features which could be implemented in the future
 
-`http_server`
+## Issues and Bugs
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+## Technologies Used
+### Main Languages Used
+-   [HTML5](https://en.wikipedia.org/wiki/HTML5)
+-   [CSS3](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
 
-A button should appear to click: _Open Preview_ or _Open Browser_.
+### Frameworks, Libraries & Programs Used
 
-In Codeanywhere you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
+## Testing
 
-To log into the Heroku toolbelt CLI:
+## Deployment
 
-1. Log in to your Heroku account and go to _Account Settings_ in the menu under your avatar.
-2. Scroll down to the _API Key_ and click _Reveal_
-3. Copy the key
-4. In Codeanywhere, from the terminal, run `heroku_config`
-5. Paste in your API key when asked
+- This project was developed using [GitPod](https://www.gitpod.io/) and [CodeAnyWhere](https://codeanywhere.com/).
+- I have used the terminal to commit changes in my GitHub repository.
 
-You can now use the `heroku` CLI program - try running `heroku apps` to confirm it works. This API key is unique and private to you so do not share it. If you accidentally make it public then you can create a new one with _Regenerate API Key_.
+### Deploying on GitHub Pages
 
----
+## Credits 
 
-Happy coding!
+### Content 
+
+### Code
