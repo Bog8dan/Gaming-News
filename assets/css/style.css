@@ -70,6 +70,26 @@ header p {
     letter-spacing: 3px;
 }
 
+#links,
+#logo {
+    line-height: 75px;
+}
+
+#links li {
+    float: right;
+    margin-right: 30px;
+    list-style-type: none;
+}
+
+#links a {
+    text-decoration: none;
+    color: inherit;
+}
+
+#links a:hover {
+    border-bottom: 1px solid ghostwhite;
+}
+
 /* ----- Header images ----- */
 
 /* Landing image */
