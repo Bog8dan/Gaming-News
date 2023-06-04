@@ -84,7 +84,14 @@ GAME ON is a website dedicated to the latest gaming news, reviews, upcoming rele
         6. Border Color: rgba(199, 74, 74, 0.7).
         7. Shadow Color: rgba(255, 0, 0, 0.7).
 
-![Colour Palette](documentation/color-palette.png)
+![Color Palette](documentation/validation/color-palette.png)
+
+- ### Typography
+
+  - #### The typography used in the website
+
+        1. Primary Font: [Source Sans Pro](https://fonts.google.com/specimen/Source+Sans+Pro)
+    - Imported from [Google Fonts](https://fonts.google.com/)
 
 ## Features
 
