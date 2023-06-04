@@ -90,6 +90,10 @@ header p {
     border-bottom: 1px solid ghostwhite;
 }
 
+.active-page {
+    border-bottom: 1px solid ghostwhite;
+}
+
 /* Text alignment */
 
 .align-center {
