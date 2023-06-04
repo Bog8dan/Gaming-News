@@ -50,6 +50,16 @@ p {
 
 /* Navigation bar */
 
+header {
+    color: ghostwhite;
+    background-color: crimson;
+}
+
+header p {
+    font-size: 200%;
+    letter-spacing: 2px;
+}
+
 #header-color {
     background-color: crimson;
     overflow: auto;
