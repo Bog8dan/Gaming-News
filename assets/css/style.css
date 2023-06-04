@@ -162,6 +162,8 @@ header p {
     position: absolute;
 }
 
+/* ----- Index page ----- */
+
 /* Article cards */
 
 .section-article {
@@ -199,6 +201,26 @@ header p {
     letter-spacing: 1px;
     font-size: 19px;
     margin: 10px;
+}
+
+/* ----- Reviews page ----- */
+
+/* Article one */
+
+#article-one {
+    margin: auto;
+    width: 90%;
+    margin-bottom: 30px;
+}
+
+#article-one h1 {
+    color: darkslategray;
+    margin-bottom: 30px;
+}
+
+#article-one h2 {
+    color: darkslategray;
+    margin-bottom: 30px;
 }
 
 /* Footer */
