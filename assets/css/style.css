@@ -237,6 +237,16 @@ header p {
     display: block;
 }
 
+/* Section separator */
+
+.separator {
+    max-width: 2000px;
+    border: 1px solid rgba(56, 49, 49, 0.7);
+    box-shadow: 0 2px 5px rgba(59, 53, 53, 0.7);
+    margin: auto;
+    margin-bottom: 100px;
+}
+
 /* Footer */
 
 footer {
