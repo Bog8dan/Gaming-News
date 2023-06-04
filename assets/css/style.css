@@ -461,3 +461,49 @@ footer i {
 footer p {
     color: ghostwhite;
 }
+
+/* Media queries */
+
+/* For larger to medium screens size from 1200px wide and down */
+@media screen and (max-width: 1200px) {
+
+    .image-align,
+    .media-align,
+    article {
+        width: auto;
+        height: auto;
+        margin: auto;
+    }
+
+    #article-one,
+    #article-two,
+    #article-three {
+        padding: 0;
+    }
+
+    #landing-image {
+        max-width: 100%;
+    }
+
+    #overlay-text {
+        width: 60%;
+    }
+
+    #links {
+        clear: left;
+        float: left;
+        margin-top: 20px;
+    }
+
+    h1 {
+        font-size: 200%;
+    }
+
+    h2 {
+        font-size: 125%
+    }
+
+    p {
+        font-size: 125%;
+    }
+}
