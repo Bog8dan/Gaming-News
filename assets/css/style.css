@@ -308,6 +308,36 @@ header p {
     margin-bottom: 100px;
 }
 
+/* ----- Release page ----- */
+
+#release-article {
+    margin: auto;
+    width: 90%;
+    margin-bottom: 30px;
+}
+
+#release-article h1 {
+    color: darkslategray;
+    margin-bottom: 30px;
+}
+
+#release-article h2 {
+    color: darkslategray;
+    margin-bottom: 30px;
+}
+
+.image-align {
+    width: 70%;
+    height: 600px;
+    margin: left;
+    margin-bottom: 30px;
+    text-align: center;
+    border: 1px solid ghostwhite;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(255, 0, 0, 0.7);
+    display: block;
+}
+
 /* Footer */
 
 footer {
